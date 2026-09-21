@@ -6,6 +6,7 @@ public class Test01_PassByValue {
         System.out.println(x);
         change(x);
         System.out.println(x);
+
     }
 
     private static void change(int x) {
